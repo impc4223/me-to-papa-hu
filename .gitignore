@@ -1,0 +1,9 @@
+/node_modules
+/yarn.lock
+
+/_cacache
+/_locks
+/_logs
+/anonymous-cli-metrics.json
+/hiii.pub
+/package.json
